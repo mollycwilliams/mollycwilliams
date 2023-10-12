@@ -3,7 +3,7 @@
 **mollycwilliams/mollycwilliams** 
 
 
-Molly Williams
-Computer Science Major
-Mathematics Minor
-2027
+**Molly Williams**
+**Computer Science Major**
+**Mathematics Minor**
+**2027**
